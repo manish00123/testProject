@@ -14,8 +14,7 @@ public class StackByLinkedList {
 	}
 	
 	public void push(int value) {
-		/*Node oldHead = Head;
-		head = new Node();*/
+	System.out.println("helo");
 		
 	}
 }
